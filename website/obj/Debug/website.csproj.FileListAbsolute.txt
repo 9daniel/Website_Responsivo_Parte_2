@@ -1,0 +1,18 @@
+\\server-arq\ALUNO\APOIO_ALUNO\2018\TECNICO\DESENVOLVIMENTO DE SISTEMAS\1 MODULO\PW1\Modelo_Projeto\website\website\bin\website.dll.config
+\\server-arq\ALUNO\APOIO_ALUNO\2018\TECNICO\DESENVOLVIMENTO DE SISTEMAS\1 MODULO\PW1\Modelo_Projeto\website\website\bin\website.dll
+\\server-arq\ALUNO\APOIO_ALUNO\2018\TECNICO\DESENVOLVIMENTO DE SISTEMAS\1 MODULO\PW1\Modelo_Projeto\website\website\bin\website.pdb
+\\server-arq\ALUNO\APOIO_ALUNO\2018\TECNICO\DESENVOLVIMENTO DE SISTEMAS\1 MODULO\PW1\Modelo_Projeto\website\website\obj\Debug\website.csprojResolveAssemblyReference.cache
+\\server-arq\ALUNO\APOIO_ALUNO\2018\TECNICO\DESENVOLVIMENTO DE SISTEMAS\1 MODULO\PW1\Modelo_Projeto\website\website\obj\Debug\website.dll
+\\server-arq\ALUNO\APOIO_ALUNO\2018\TECNICO\DESENVOLVIMENTO DE SISTEMAS\1 MODULO\PW1\Modelo_Projeto\website\website\obj\Debug\website.pdb
+C:\Users\marcio.morais\Desktop\Website_Responsivo\website\bin\website.dll.config
+C:\Users\marcio.morais\Desktop\Website_Responsivo\website\bin\website.dll
+C:\Users\marcio.morais\Desktop\Website_Responsivo\website\bin\website.pdb
+C:\Users\marcio.morais\Desktop\Website_Responsivo\website\obj\Debug\website.csprojResolveAssemblyReference.cache
+C:\Users\marcio.morais\Desktop\Website_Responsivo\website\obj\Debug\website.dll
+C:\Users\marcio.morais\Desktop\Website_Responsivo\website\obj\Debug\website.pdb
+C:\Users\etec\Desktop\Website_Responsivo_Parte_2\website\bin\website.dll.config
+C:\Users\etec\Desktop\Website_Responsivo_Parte_2\website\bin\website.dll
+C:\Users\etec\Desktop\Website_Responsivo_Parte_2\website\bin\website.pdb
+C:\Users\etec\Desktop\Website_Responsivo_Parte_2\website\obj\Debug\website.csprojResolveAssemblyReference.cache
+C:\Users\etec\Desktop\Website_Responsivo_Parte_2\website\obj\Debug\website.dll
+C:\Users\etec\Desktop\Website_Responsivo_Parte_2\website\obj\Debug\website.pdb

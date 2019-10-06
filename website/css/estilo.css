@@ -1,0 +1,132 @@
+﻿html, body {
+    margin:0;
+    height:100%;
+}
+
+.topo-pagina{
+    position:relative;
+    width:100%;
+    height:auto;
+    background:#0c211f;
+}
+
+.limitador{
+    position:relative;
+    width:1000px;
+    height:auto;
+    margin:0 auto; /*centralizar*/
+    padding-top:30px;
+    padding-bottom:30px;
+}
+
+.menu{
+    height:50px;
+    width:100%;
+}
+
+.coluna-menu{
+    width:50%;
+    height:100%;
+    float:left;
+}
+
+.limpar{
+    clear:both;
+}
+
+.menu-botao{
+    color:#43c2c8;
+    width:16%;
+    height:auto;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius:5px;
+    text-align:center;
+    float:left;
+    text-transform:uppercase;
+    font-size:8pt;
+    margin-top:7px;
+}
+
+.menu-botao:hover{
+    background:#09626b;
+    color:#74f9ff;
+    text-decoration:none;
+    transition:0.5s;
+    background-image:linear-gradient(#074859,#34b0b6);
+}
+
+.espaco-acima{
+    padding-top:30px;
+}
+
+.efeito-1{
+    background:url("../img/fundo-luz.png");
+    background-position:top center;
+    background-repeat:no-repeat;
+}
+
+.texto-topo-grande{
+    text-transform:uppercase;
+    color:#fff;
+    font-size:30pt;
+    font-weight:bold;
+}
+
+.texto-topo-medio{
+    text-transform:uppercase;
+    color:#fff;
+    font-size:20pt;
+}
+
+.texto-topo-pequeno{
+    color:#43c2c8;
+    font-size:10pt;
+    padding-top:20px;
+    line-height:160%;
+}
+
+.limitador-conteudo{
+    position:relative;
+    width:1000px;
+    height:auto;
+    margin:0 auto; /*centralizar*/
+}
+
+.efeito-2{
+    margin:0 auto;
+    width:800px;
+    height:30px;
+    background:url("../img/efeito-luz.png");
+}
+
+.verde{
+    color:#09626b;
+}
+
+.titulo{
+    padding-left:10px;
+    padding-top:15px;
+    font-size:14pt;
+    color:#555;
+    font-weight:bold;
+}
+
+.texto{
+    padding-top:15px;
+    font-size:10pt;
+    color:#AAA;
+    padding-bottom:20px;
+    padding-right:10px;  
+}
+
+.linha{
+    margin:0 auto;
+    width:800px;
+    height:30px;
+    background:url("../img/linha.png");
+    background-repeat:no-repeat;
+    margin-top:30px;
+    padding-bottom:20px;
+   
+}
